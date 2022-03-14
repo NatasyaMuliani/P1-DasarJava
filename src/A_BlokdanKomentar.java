@@ -1,4 +1,4 @@
-public class DasarJava {
+public class A_BlokdanKomentar {
     public static void main (String []args){
         System.out.println("dasar pemograman java");
         // contoh komentar satu baris
